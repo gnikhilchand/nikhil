@@ -8,5 +8,5 @@ Created on Sun Feb 23 20:47:40 2020
 #perimeter of rectangle
 length=int(input("length: "))
 width=int(input("width: "))
-perimeter=2*(length*width)
+perimeter=2*(length+width)
 print("perimeter_of_rectangle:",perimeter)
