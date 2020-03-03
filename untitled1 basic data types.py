@@ -24,3 +24,21 @@ print(y)
 print(True)
 x=False
 print(x)
+
+#string
+x=("nikhil chand")
+print(x)
+x=('nikhil chand')
+print(x)
+
+# sets
+Set = set(["a", "b", "c"]) 
+  
+print("Set: ") 
+print(Set) 
+
+# Adding element to the set 
+Set.add("d") 
+  
+print("Set after adding: ") 
+print(Set) 
