@@ -5,7 +5,7 @@ Created on Tue Mar 10 16:38:22 2020
 @author: Nikhil
 """
 
-## creating list removing last element,5th element
+## creating list removing last element
 
 lis1 = [10,20,30,40,50]
 
